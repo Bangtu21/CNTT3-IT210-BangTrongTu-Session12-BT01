@@ -1,0 +1,8 @@
+Session12-BT01-Phần 1
+- Spring-boot-starter-web được gọi là "Starter" vì nó là một gói dependency tổng hợp, cung cấp sẵn toàn bộ các thư viện cần thiết để xây dựng ứng dụng Web 
+	trong Spring Boot.
+- Nó giúp chúng ta không phải khai báo những thư viện nhỏ lẻ:
+	+ Spring MVC
+	+ Jackson
+	+ Embedded Tomcat
+	+ Validation & logging cơ bản
